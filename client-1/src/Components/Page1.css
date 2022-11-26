@@ -1,0 +1,24 @@
+.Page1rdivmain{
+    /* background-image: radial-gradient(pink,yellow); */
+    /* background-image: linear-gradient(to right,white,rgb(247, 107, 189)); */
+    background-color: rgb(247, 118, 140);
+    height: 100vh;
+}
+.Page1rdiv{
+        background-image: linear-gradient(to right,rgb(112, 240, 112),white);
+        padding: 20px;
+        border-radius: 20px;
+        box-shadow: 2px 2px 2px black;
+}
+.Page1carouselimg{
+    height:400px;
+    background-size: cover;
+    border-radius: 20px;
+    /* box-shadow:2px 2px 2px black; */
+}
+.Page1divhead{
+    padding: 20px;
+    background-color:gray;
+    /* background-image: linear-gradient(to right,rgb(12, 15, 12),white); */
+    /* background: transparent; */
+}

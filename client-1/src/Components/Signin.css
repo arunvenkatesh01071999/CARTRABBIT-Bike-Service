@@ -1,0 +1,20 @@
+.Signinback{
+    background-image: linear-gradient(to left,rgb(18, 2, 77),rgb(200, 44, 172));
+    height: 100vh;
+    /* opacity: 0.8; */
+}
+.signinmain{
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+    background-color: azure;
+}
+.Signininp1{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 10px;
+    width: 300px;
+    border: none;
+    border-bottom:solid 2px;
+}

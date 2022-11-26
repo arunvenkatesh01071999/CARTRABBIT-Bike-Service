@@ -1,0 +1,13 @@
+.update_btn{
+    margin-left: 90px;
+}
+.update_btn button{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.Edit_back{
+    border-radius: 20px;
+    background-image: linear-gradient(to left,blue,rgb(125, 247, 125),blue);
+    height: 100vh;
+}

@@ -1,0 +1,5 @@
+.detail_back{
+    border-radius: 20px;
+    background-image: linear-gradient(to left,blue,rgb(125, 247, 125),blue);
+    height: 100vh;
+}

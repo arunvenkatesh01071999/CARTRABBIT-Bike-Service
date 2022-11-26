@@ -1,0 +1,8 @@
+.add_btn{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.service_back{
+    background-image: linear-gradient(to right,rgb(202, 23, 104),rgb(253, 248, 95),rgb(0, 255, 179));
+    height: 100vh;
+}
